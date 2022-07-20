@@ -12,6 +12,5 @@ This project is about analyzing latest covid-19(2022) dataset from WHO using pyt
 WHO = https://covid19.who.int/data
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/madrasiharish)
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madrasiharish)
 
